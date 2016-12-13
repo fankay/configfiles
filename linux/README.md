@@ -1,0 +1,1 @@
+下载相应版本的sources.list, 覆盖/etc/apt/sources.list即可(操作前请做好相应备份)
