@@ -19,6 +19,7 @@
         <commentGenerator>
         	<!-- 是否去掉自动生成的注释 true是 false 否 -->
             <property name="suppressAllComments" value="true"/>
+		<!-- 生成的注释是否带日期 true 不带 false 带 -->
             <property name="suppressDate" value="true"/>
         </commentGenerator>
 		<!-- 连接数据库的信息 -->
